@@ -1,0 +1,12 @@
+Cwiczenia obslugi linii komend:
+   a. wypisze wszystkie otrzymane argumenty w ososbnych liniach
+
+Programy piszemy z wykorzystaniem klasy std::vector
+Nazwa pliku wejsciowego ma byc odczytana linii komend
+Program wczyta z pliku liczby (tyle ile ich bedzie) i wydrukuje je:
+   b. w tej samej kolejnosci
+   c. w odwrotnej kolejnosci
+   d. posortowane rosnaco
+   e. posortowane malejaco
+   f. tylko parzyste
+   
